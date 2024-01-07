@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Swaminathan</h1>
 <h3 align="center">A passionate enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgmXy69YzLGpXQPHvzqK837u_fkSiFu5cg7Q&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshavmm&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshavmm" /> </p>
 
