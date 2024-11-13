@@ -13,9 +13,9 @@
 
 - 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/vigneshavmm?label=Follow%20Me&style=social)](https://github.com/vigneshavmm)
 
-     [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.datascienceportfol.io/vigneshavmm)
+     [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshavmm/)[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.datascienceportfol.io/vigneshavmm)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vigneshavmm)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshavmm/)
+[![Buy me a Coffee](https://img.shields.io/badge/-buymeacoffe-yellow?style=flat&logo=buymeacoffee&logoColor=white)](buymeacoffee.com/vigneshavmm)
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
