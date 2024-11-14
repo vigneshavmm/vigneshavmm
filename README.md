@@ -15,7 +15,7 @@
 
      [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshavmm/)[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://www.datascienceportfol.io/vigneshavmm)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vigneshavmm)
-[![Buy me a Coffee](https://img.shields.io/badge/-buymeacoffe-yellow?style=flat&logo=buymeacoffee&logoColor=white)](buymeacoffee.com/vigneshavmm)
+[![Buy me a Coffee](https://img.shields.io/badge/-buymeacoffe-yellow?style=flat&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/vigneshavmm)
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
